@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMAZON</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style3p.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+<div class="nav-logo border">
+    <div class="logo"></div>
+</div>
+<div class="nav-address border">
+    <p class="add-first">Delivery to</p>
+    <div class="add-icon">
+        <i class="fa-solid fa-location-dot"></i>
+       <p class="add-second">India</p>
+       </div>
+       </div>
+       <div class="nav-search">
+        <select class="select-search">
+            <option>All</option>
+            </select>
+            <input placeholder="search Amazon" class="search-input">
+        <div class="search-icon">
+            <i class="fa-solid fa-magnifying-glass-location"></i>
+            </div>
+       </div>
+<div class="border">
+<select class="form-control">
+    <option value="HU_hu" data-content='<span class="flag-icon flag-icon-hu"></span>'></option>
+    <option value="EN_en" data-content='<span class="flag-icon flag-icon-hu"></span>'></option>
+    <option value="DE_de" data-content='<span class="flag-icon flag-icon-hu"></span>'></option>
+    <option value="RU_ru" data-content='<span class="flag-icon flag-icon-hu"></span>'></option>
+ </select>
+ <select class="select-lang">
+    <option>EN</option>
+ </select>
+ </div>
+ <div class="nav-signin border">
+    <p class="nav-hello"><span>Hello,sign in</span></p>
+   <select class="nav-lists">
+    <option>
+        <p><span>Account & Lists</span></p>
+</option>
+</select>
+ </div>
+<div class="nav-return border">
+    <p class="nav-ret"><span>Returns</span></p>
+    <p class="nav-orders"><span>& Orders</span></p>
+</div>
+<div class="nav-cart border">
+    <i class="fa-solid fa-cart-shopping"></i>
+    cart
+</div>
+</div>
+</div>
+<div class="panel">
+<div class="panel-all border">
+    <i class="fa-solid fa-bars"></i>
+    All
+</div>
+<div class="panel-ops border">
+    <p>Today's Deals</p>
+    <p>Customer Service</p>
+    <p>Registry</p>
+    <p>Gift Cards</p>
+    <p>Sell</p>
+</div>
+<div class="panel-deals border">
+    Shops deals in Electronics
+</div>
+</div>
+    </header>
+   <div class="hero-section">
+    <div class="hero-msg">
+<p>You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery.<a>Click here to go to amazon.in</a></p>
+    </div>
+   </div>
+   <div class="shop-deals">
+    <div class="box1 box">
+    <div class="box-content">
+        <h2>Shops deals in fashion</h2>
+        <div class="box-img" style="background-image: url('fashi-image.jpg');">
+        </div>
+        <p>see more</p>
+    </div>
+        </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Deals in PCs</h2>
+            <div class="box-img" style="background-image: url('dealsinpc-image.jpg');">
+            </div>
+            <p>see more</p>
+        </div>
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Gifts for every Mom</h2>
+            <div class="box-img" style="background-image: url('gifts\ for\ mom-image.jpg');">
+            </div>
+            <p>see more</p>
+        </div>
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Top deal</h2>
+            <div class="box-img" style="background-image: url('top\ deal-image.jpg');">
+            </div>
+            <p>see more</p>
+        </div>
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Gaming accessories</h2>
+            <div class="box-img" style="background-image: url('gaming-image.jpg');">
+            </div>
+            <p>see more</p>
+        </div>
+            </div>
+        <div class=" box">
+            <div class="box-content">
+                <h2>Shop activity trackers and smartwatches</h2>
+                <div class="box-img" style="background-image: url('smartwatch-image.jpg');">
+                </div>
+                <p>see more</p>
+            </div>
+        </div>
+        <div class=" box">
+            <div class="box-content">
+                <h2>upgrade your office furniture</h2>
+                <div class="box-img" style="background-image: url('upgradeoff-image.jpg');">
+                </div>
+                <p>see more</p>
+            </div>
+        </div>
+        <div class=" box">
+            <div class="box-content">
+                <h2>Laptops for every need</h2>
+                <div class="box-img" style="background-image: url('laptop-image.jpg');">
+                </div>
+                <p>see more</p>
+            </div>
+        </div>
+   </div>
+   <footer>
+    <div class="footer-panel">
+        Back to top
+    </div>
+    <div class="foot-panel2">
+        <ul>
+            <p>Get to know Us</p>        
+<a>Careers</a>
+<a>Blog</a>
+<a>About Amazon</a>
+<a>Investor Relations</a>
+<a>Amazon Devices</a>
+<a>Amazon Science</a>
+        </ul>
+        <ul>
+            <p>Make Money with Us</p>      
+<a>Sell products on Amazon</a>
+<a>sell on Amazon Business</a>
+<a>sell apps on Amazon</a>
+<a>Become an Affiliate</a>
+<a>Advertise Your Products</a>
+<a>Self-publish with us</a>
+<a>host an Amazon Hub</a>
+</ul>
+        <ul>
+            <p>Amazon Payment Products</p>        
+<a>Amazon Bussiness card</a>
+<a>Shop with points</a>
+<a>Reload Your Balance</a>
+<a>Amazon Currency Converter</a>
+        </ul>
+        <ul>
+            <p>Let Us Help You</p>        
+<a>Amazon and COVID-19</a>
+<a>Your Account</a>
+<a>Your Orders</a>
+<a>Shipping Rates & polices</a>
+<a>Return & Replacements</a>
+<a>Manage Your Content And Devices</a>
+        <a>help</a>
+    </ul>
+    </div>
+    <div class="foot-panel3">
+        <div class="logo"></div>
+    </div>
+    <div class="foot-panel4">
+    <div class="pages">
+        <a>Conditions of Use</a>
+        <a>privacy Notice</a>
+        <a>Consumer Health Data Privacy Disclosure</a>
+        <a>Your Ads Privacy Choices</a>
+    </div>
+    <div class="copyrights">
+        ©1996-2024, Amazon.com, Inc. or its affiliates
+    </div>
+    </div>
+   </footer>
+</body>
+</html>
